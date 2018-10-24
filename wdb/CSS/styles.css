@@ -28,7 +28,7 @@ a:visited {
 }
 
 a {
-    padding: 8px;
+    /* padding: 8px; */
     /* padding-top: 100px; */
     line-height: 1em;
     font-family: linotype-didot, serif;
